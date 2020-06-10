@@ -1,0 +1,7 @@
+Save each model in their own folder!!!
+
+file structure
+
+Model – vipersquadmodels – props - “item” > OBJ/FBX, Master UV (PSD), PNG final Uvs
+
+Model – vipersquadmodels – Guns – Weapon Type (Shotgun, AR, Pistol) - “Gun” > OBJ/FBX, Master UV (PSD), PNG final UVs  
